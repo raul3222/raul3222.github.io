@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "A45U984TJ4.com.it-attractor.nomadapp",
+            "paths": ["/test/*"]
+        }]
+    }
+}
